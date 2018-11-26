@@ -73,3 +73,9 @@ body {
 .horizontal-line--2 {
   margin-top: 50px
 }
+
+#score {
+  color: #5a6772;;
+  font-size: 30px;
+  text-align: center;
+}
