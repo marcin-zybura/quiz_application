@@ -2,4 +2,4 @@
 Simple quiz application created with JavaScript object oriented programming
  paradigm.
  
- <a> tags are not linked.
+ '<a>' tags are not linked.
